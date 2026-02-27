@@ -1,3 +1,4 @@
+![logo](https://github.com/Ashvin-lohana/Ashvin-lohana/blob/main/Gihub%20Banner%20pic.png)
 <h1 align="center">Hi 👋, I'm Ashvin Kumar</h1>
 
 <h3 align="center">
